@@ -1,0 +1,37 @@
+2013-12-06 10:59:52,075 DEBUG Configurator [main] jobs configurations loading 
+2013-12-06 11:00:00,008 DEBUG Configurator [DefaultQuartzScheduler_Worker-1] admin configurations loading 
+2013-12-06 11:00:00,008 DEBUG StopAgent [DefaultQuartzScheduler_Worker-1] checking FTP Connector state
+2013-12-06 11:00:00,009 DEBUG StopAgent [DefaultQuartzScheduler_Worker-1] Available Processors = 4
+2013-12-06 11:00:00,009 DEBUG StopAgent [DefaultQuartzScheduler_Worker-1] System Load Avg = -1.0
+2013-12-06 11:00:00,103 DEBUG StopAgent [DefaultQuartzScheduler_Worker-1] Process CPU Load = -1.0
+2013-12-06 11:00:00,104 DEBUG StopAgent [DefaultQuartzScheduler_Worker-1] Total Physical Memory = 8358825984
+2013-12-06 11:00:00,104 DEBUG StopAgent [DefaultQuartzScheduler_Worker-1] Free Physical Memory = 3714281472
+2013-12-06 11:00:00,104 DEBUG StopAgent [DefaultQuartzScheduler_Worker-1] System CPU Load = -1.0
+2013-12-06 11:00:00,104 DEBUG StopAgent [DefaultQuartzScheduler_Worker-1] FTPConnector configuration ready to stop -false FTPConnector threads ready to stop - true
+2013-12-06 11:00:20,004 DEBUG Configurator [DefaultQuartzScheduler_Worker-2] admin configurations loading 
+2013-12-06 11:00:20,004 DEBUG StopAgent [DefaultQuartzScheduler_Worker-2] checking FTP Connector state
+2013-12-06 11:00:20,005 DEBUG StopAgent [DefaultQuartzScheduler_Worker-2] Available Processors = 4
+2013-12-06 11:00:20,005 DEBUG StopAgent [DefaultQuartzScheduler_Worker-2] System Load Avg = -1.0
+2013-12-06 11:00:20,006 DEBUG StopAgent [DefaultQuartzScheduler_Worker-2] Process CPU Load = 0.0
+2013-12-06 11:00:20,007 DEBUG StopAgent [DefaultQuartzScheduler_Worker-2] Total Physical Memory = 8358825984
+2013-12-06 11:00:20,007 DEBUG StopAgent [DefaultQuartzScheduler_Worker-2] Free Physical Memory = 3699998720
+2013-12-06 11:00:20,008 DEBUG StopAgent [DefaultQuartzScheduler_Worker-2] System CPU Load = 0.07136101739121481
+2013-12-06 11:00:20,008 DEBUG StopAgent [DefaultQuartzScheduler_Worker-2] FTPConnector configuration ready to stop -false FTPConnector threads ready to stop - true
+2013-12-06 11:00:40,005 DEBUG Configurator [DefaultQuartzScheduler_Worker-3] admin configurations loading 
+2013-12-06 11:00:40,007 DEBUG StopAgent [DefaultQuartzScheduler_Worker-3] checking FTP Connector state
+2013-12-06 11:00:40,007 DEBUG StopAgent [DefaultQuartzScheduler_Worker-3] Available Processors = 4
+2013-12-06 11:00:40,007 DEBUG StopAgent [DefaultQuartzScheduler_Worker-3] System Load Avg = -1.0
+2013-12-06 11:00:40,009 DEBUG StopAgent [DefaultQuartzScheduler_Worker-3] Process CPU Load = 0.0
+2013-12-06 11:00:40,009 DEBUG StopAgent [DefaultQuartzScheduler_Worker-3] Total Physical Memory = 8358825984
+2013-12-06 11:00:40,009 DEBUG StopAgent [DefaultQuartzScheduler_Worker-3] Free Physical Memory = 3690463232
+2013-12-06 11:00:40,027 DEBUG StopAgent [DefaultQuartzScheduler_Worker-3] System CPU Load = 0.06762055844450277
+2013-12-06 11:00:40,027 DEBUG StopAgent [DefaultQuartzScheduler_Worker-3] FTPConnector configuration ready to stop -false FTPConnector threads ready to stop - true
+2013-12-06 11:01:00,002 DEBUG Configurator [DefaultQuartzScheduler_Worker-4] admin configurations loading 
+2013-12-06 11:01:00,002 DEBUG StopAgent [DefaultQuartzScheduler_Worker-4] checking FTP Connector state
+2013-12-06 11:01:00,002 DEBUG StopAgent [DefaultQuartzScheduler_Worker-4] Available Processors = 4
+2013-12-06 11:01:00,002 DEBUG StopAgent [DefaultQuartzScheduler_Worker-4] System Load Avg = -1.0
+2013-12-06 11:01:00,004 DEBUG StopAgent [DefaultQuartzScheduler_Worker-4] Process CPU Load = 3.901000601240365E-4
+2013-12-06 11:01:00,004 DEBUG StopAgent [DefaultQuartzScheduler_Worker-4] Total Physical Memory = 8358825984
+2013-12-06 11:01:00,004 DEBUG StopAgent [DefaultQuartzScheduler_Worker-4] Free Physical Memory = 3693096960
+2013-12-06 11:01:00,007 DEBUG StopAgent [DefaultQuartzScheduler_Worker-4] System CPU Load = 0.09865126346932407
+2013-12-06 11:01:00,008 DEBUG StopAgent [DefaultQuartzScheduler_Worker-4] FTPConnector configuration ready to stop -false FTPConnector threads ready to stop - true

@@ -1,0 +1,2 @@
+# to stop set as true. keep run false. Only stopping once system idle
+StopFTPConnector=false

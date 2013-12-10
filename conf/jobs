@@ -1,0 +1,5 @@
+#cron trigger for execution  - when to download files
+CronTriggerExpression=0 0-59/2 * * * ?
+
+#stop agent cron trigger for execution - no need to change
+StopCronTriggerExpression=0-59/20 * * * * ?

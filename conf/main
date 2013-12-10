@@ -1,0 +1,55 @@
+# ftp credentials
+FTPServer.host=127.0.0.1
+#FTPServer.host=10.82.105.16
+FTPServer.port=21
+FTPUser=kasun
+FTPPassword=kasun1234
+#FTPUser=ftpuser
+#FTPPassword=1234
+
+
+#minimum is 1, as this is for the initial connection
+RetryCount=5
+
+# wait between retry in milliseconds
+RetrySleep=10000
+
+#in seconds, setControlKeepAliveTimeout so routers may not drop your control connection when data connection is active
+FTPControlKeepAlive=300
+
+#ftp local and remote directories
+RemoteDirectory=tmp\\
+#RemoteDirectory=/home/ftpuser/kasun
+LocalDirectory=D:\\tmp\\tmp\
+
+#file name match check(yyyymmdd pattern is exist somewhere in file name)
+FileNameMatch=true
+
+#if FileNameMatch is true search day how many days from current day
+DaysBack=26
+
+#delete remote file after download
+RemoteFileDelete=false
+
+#empty local folder before download
+LocalFolderEmpty=false
+
+#no of downloading threads
+MaxThreadCount=3
+
+#inter file wait milliseconds
+ThreadSleep=10
+
+#in case if the local directory has the same file
+
+#new file will be rename with the prefix
+#and the renaming prefix
+LocalFileRename=true
+#if need yyyyMMddHHmm can be specified so the filename look like 201311221603-filename
+LocalFilePreFix=yyyyMMddHHmm
+
+#in case if new file also inside local directory it will be replace/skip
+OverwriteFileEnable=true
+
+
+
